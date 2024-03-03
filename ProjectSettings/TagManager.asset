@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Solid
   - 
   - 
   - 
@@ -40,4 +40,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: SceneBackground
+    uniqueID: 3861576611
+    locked: 0
+  - name: ScenePlatform
+    uniqueID: 3672990833
+    locked: 0
+  - name: SceneMid_Enemy
+    uniqueID: 594786619
+    locked: 0
+  - name: SceneMid_Player
+    uniqueID: 4133504961
+    locked: 0
+  - name: SceneChanges
+    uniqueID: 3762977089
+    locked: 0
+  - name: SceneFront
+    uniqueID: 485699981
     locked: 0
