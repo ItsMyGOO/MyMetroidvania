@@ -13,8 +13,8 @@ TagManager:
   - UI
   - Solid
   - OneWay
-  - 
-  - 
+  - CharacterMove
+  - GroundSensor
   - 
   - 
   - 
