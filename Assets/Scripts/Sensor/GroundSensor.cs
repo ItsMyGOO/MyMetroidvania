@@ -78,7 +78,7 @@ public class GroundSensor : MonoBehaviour {
         for (int i = 0; i < collision.contactCount; i++) {
             const float overlapDistance = 0.35f;
             // todo debug
-            Debug.DrawRay(collision.GetContact(i).point, collision.GetContact(i).normal);
+            // Debug.DrawRay(collision.GetContact(i).point, collision.GetContact(i).normal);
             contactResult |= collision.GetContact(i).normal.y >= overlapDistance;
         }
 
